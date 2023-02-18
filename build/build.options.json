@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "../../..,../../..,../../..,../../..,../..,../..,../../../..,../../../..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "esp32:esp32:node32s:PartitionScheme=default,FlashFreq=80,UploadSpeed=921600,DebugLevel=info,EraseFlash=all",
+  "hardwareFolders": "/Users/jona/Library/Arduino15/packages",
+  "otherLibrariesFolders": "/Users/jona/Documents/Arduino/libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "/Users/jona/Documents/code/dmxlaser01"
+}
